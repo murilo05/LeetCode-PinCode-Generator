@@ -1,0 +1,12 @@
+mode: set
+pinCode/main.go:9.13,16.2 3 0
+pinCode/main.go:19.55,23.33 3 1
+pinCode/main.go:23.33,28.17 3 1
+pinCode/main.go:28.17,31.4 2 1
+pinCode/main.go:33.2,33.23 1 1
+pinCode/main.go:37.30,39.25 2 1
+pinCode/main.go:39.25,41.3 1 1
+pinCode/main.go:43.2,43.14 1 1
+pinCode/main.go:47.47,49.28 2 1
+pinCode/main.go:49.28,51.3 1 1
+pinCode/main.go:52.2,52.19 1 1
